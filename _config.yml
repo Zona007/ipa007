@@ -1,5 +1,5 @@
-title: TestMyipa
-description: 一个基于 GitHub 的测试下载平台
+title: Myipa
+description: 一个基于测试下载平台
 show_downloads: false
 
 baseurl: "/ipa007" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -10,7 +10,7 @@ cayman-blog:
 
 theme: # leave it empty
 
-qq_number: 894857383
+qq_number: 
 github_username: 1ilI
 email: zhangyue_developer@icloud.com
 

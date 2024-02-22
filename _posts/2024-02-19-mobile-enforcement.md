@@ -23,13 +23,23 @@ title: "游戏项目"
 
 
 ## 安装方式
+*  苹果手机
 
 * 在手机 Safari 浏览器上，[点击安装](itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/Zona007/ipa/main/manifast.plis)
 
 
 * iOS11 及以上，打开「相机」应用，扫描以下二维码安装☟
 
-<img alt="downloadImage" src="https://raw.githubusercontent.com/Zona007/ipa/main/7777.png" width="50%"/>
+<img alt="downloadImage" src="https://raw.githubusercontent.com/Zona007/ipa/main/ios.png" width="50%"/>
+
+*  安卓手机
+
+* 在手机浏览器上，[点击安装]
+
+* 扫描以下二维码安装☟
+
+<img alt="downloadImage" src="https://raw.githubusercontent.com/Zona007/ipa/main/ios.png" width="50%"/>
+
 
 
 

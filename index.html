@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MyDownloadLink</title>
+    <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .header {
+      width: 100%;
+      padding: 20px;
+      background: #f2f2f2;
+      text-align: center;
+    }
+    .main {
+      width: 100%;
+      padding: 20px;
+      text-align: center;
+    }
+    .img-container {
+      max-width: 300px;
+      margin: 0 auto;
+    }
+    .img-container img {
+      width: 100%;
+      height: auto;
+    }
+    @media (min-width: 600px) {
+      .main {
+        width: 80%;
+      }
+    }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>游戏下载链接</h1>
+        <p>2024年2月19日</p>
+    </div>
+    <div class="main">
+        <div class="img-container">
+          <div>顶星</div>
+          <img src="你的图片链接" alt="图片描述" />
+        </div>
+        <p>苹果手机</p>
+        <a href="itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/Zona007/ipa/main/manifast.plis">点击安装</a>
+        <p>扫描以下二维码安装☟</p>
+        <img alt="downloadImage" src="https://raw.githubusercontent.com/Zona007/ipa/main/ios.png" width="50%"/>
+
+        <p>安卓手机</p>
+        <a href="https://huangjin.maoyingkeji.com/uploads/WZQP.apk">点击安装</a>
+        <p>扫描以下二维码安装☟</p>
+        <img alt="downloadImage" src="https://raw.githubusercontent.com/Zona007/ipa/main/android.png" width="50%"/>
+    </div>
+</body>
+</html>

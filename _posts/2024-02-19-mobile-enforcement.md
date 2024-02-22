@@ -34,11 +34,11 @@ title: "游戏项目"
 
 *  安卓手机
 
-* 在手机浏览器上，[点击安装](https://huangjin.maoyingkeji.com/uploads/dingxing.ipa)
+* 在手机浏览器上，[点击安装](https://huangjin.maoyingkeji.com/uploads/WZQP.apk)
 
 * 扫描以下二维码安装☟
 
-<img alt="downloadImage" src="https://raw.githubusercontent.com/Zona007/ipa/main/ios.png" width="50%"/>
+<img alt="downloadImage" src="https://raw.githubusercontent.com/Zona007/ipa/main/android.png" width="50%"/>
 
 
 

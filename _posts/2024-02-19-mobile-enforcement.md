@@ -34,7 +34,7 @@ title: "游戏项目"
 
 *  安卓手机
 
-* 在手机浏览器上，[点击安装]
+* 在手机浏览器上，[点击安装](https://huangjin.maoyingkeji.com/uploads/dingxing.ipa)
 
 * 扫描以下二维码安装☟
 

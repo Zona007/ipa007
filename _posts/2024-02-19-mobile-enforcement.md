@@ -5,7 +5,7 @@ title: "游戏项目"
 
 * content
 {:toc}
-<div align="center"> <img alt="icon" src="https://raw.githubusercontent.com/Zona007/ipa/main/iosicon.png" width="30%"/> <p>游戏项目-游戏项目</p> </div>
+<div align="center"> <img alt="icon" src="https://huangjin.maoyingkeji.com/uploads/iosicon.png" width="30%"/> <p>游戏项目-游戏项目</p> </div>
 
 
 
@@ -30,7 +30,7 @@ title: "游戏项目"
 
 * iOS11 及以上，打开「相机」应用，扫描以下二维码安装☟
 
-<img alt="downloadImage" src="https://raw.githubusercontent.com/Zona007/ipa/main/ios.png" width="50%"/>
+<img alt="downloadImage" src="https://huangjin.maoyingkeji.com/uploads/ios.png" width="50%"/>
 
 *  安卓手机
 
@@ -38,7 +38,7 @@ title: "游戏项目"
 
 * 扫描以下二维码安装☟
 
-<img alt="downloadImage" src="https://raw.githubusercontent.com/Zona007/ipa/main/android.png" width="50%"/>
+<img alt="downloadImage" src="https://huangjin.maoyingkeji.com/uploads/android.png" width="50%"/>
 
 
 
